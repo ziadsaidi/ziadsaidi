@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ziadsaidi
 - 👀 I’m interested in Javascript and .Net
-- 🌱 I’m currently working as of a Fullstack Developer.
+- 🌱 I’m currently working as a Fullstack Developer.
 - 💞️ I’m looking to collaborate on Javascript  projects
 - 📫 How to reach me (ziedsaidig@gmail.com)
 
